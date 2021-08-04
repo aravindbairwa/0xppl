@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96367f82.chunk.css",
+    "main.js": "/static/js/main.786f4599.chunk.js",
+    "main.js.map": "/static/js/main.786f4599.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5251970b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5251970b.js.map",
+    "static/js/2.305ec26a.chunk.js": "/static/js/2.305ec26a.chunk.js",
+    "static/js/2.305ec26a.chunk.js.map": "/static/js/2.305ec26a.chunk.js.map",
+    "static/js/3.a885926c.chunk.js": "/static/js/3.a885926c.chunk.js",
+    "static/js/3.a885926c.chunk.js.map": "/static/js/3.a885926c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.96367f82.chunk.css.map": "/static/css/main.96367f82.chunk.css.map",
+    "static/js/2.305ec26a.chunk.js.LICENSE.txt": "/static/js/2.305ec26a.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/WorkSans-VariableFont_wght.7655b042.ttf",
+    "static/media/close.3e1e9c70.svg": "/static/media/close.3e1e9c70.svg",
+    "static/media/coinbase.98411986.svg": "/static/media/coinbase.98411986.svg",
+    "static/media/comment.7b81ed0e.svg": "/static/media/comment.7b81ed0e.svg",
+    "static/media/communities_icon.f0a8018e.svg": "/static/media/communities_icon.f0a8018e.svg",
+    "static/media/ellipsis.b927814c.svg": "/static/media/ellipsis.b927814c.svg",
+    "static/media/heart.eb110182.svg": "/static/media/heart.eb110182.svg",
+    "static/media/home_icon.76f4fcad.svg": "/static/media/home_icon.76f4fcad.svg",
+    "static/media/message_icon.cb2f5bdf.svg": "/static/media/message_icon.cb2f5bdf.svg",
+    "static/media/metamask.7185db00.svg": "/static/media/metamask.7185db00.svg",
+    "static/media/ppl_logo.8a60281e.svg": "/static/media/ppl_logo.8a60281e.svg",
+    "static/media/profile_picture.9aa196e0.svg": "/static/media/profile_picture.9aa196e0.svg",
+    "static/media/search_icon.f8920ee2.svg": "/static/media/search_icon.f8920ee2.svg",
+    "static/media/user_default.356ce2fa.svg": "/static/media/user_default.356ce2fa.svg",
+    "static/media/verified.b72fad51.svg": "/static/media/verified.b72fad51.svg",
+    "static/media/verified_bw.0ca31340.svg": "/static/media/verified_bw.0ca31340.svg",
+    "static/media/wallet_connect.fea73ba6.svg": "/static/media/wallet_connect.fea73ba6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5251970b.js",
+    "static/js/2.305ec26a.chunk.js",
+    "static/css/main.96367f82.chunk.css",
+    "static/js/main.786f4599.chunk.js"
+  ]
+}
